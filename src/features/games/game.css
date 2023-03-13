@@ -1,0 +1,27 @@
+.game-preview {
+    background: #ffffff;
+    padding: 10px 16px;
+    margin: 20px 0;
+    border-radius: 10px;
+    border-bottom: 1px solid #c2e5f6;
+}
+.game-preview:hover {
+    box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+}
+.game-preview h2 {
+    font-size: 20px;
+    color: #2e4a66;
+    margin-bottom: 8px;
+}
+.game-preview a{
+    text-decoration: none;
+}
+.game_card_bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.game_card_bottom > span {
+    font-size: 15px;
+}

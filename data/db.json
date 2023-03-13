@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "John",
+      "email": "john@gmail.com",
+      "address": "Brook street, New York",
+      "id": 3
+    },
+    {
+      "name": "Kali",
+      "email": "kali@gmail.com",
+      "address": "Vatar, Dhaka",
+      "id": 4
+    },
+    {
+      "name": "Mash",
+      "email": "mash@gmail.com",
+      "address": "Chandgoan, Chittagong",
+      "id": 5
+    },
+    {
+      "name": "Jack",
+      "email": "jack@gmail.com",
+      "address": "vatar, Dhaka",
+      "id": 6
+    },
+    {
+      "name": "Sakib",
+      "email": "Sak@gmail.com",
+      "address": "bash, dhaka",
+      "id": 7
+    },
+    {
+      "name": "Mari",
+      "email": "mari@gmail.com",
+      "address": "well street, London",
+      "id": 8
+    }
+  ],
+  "games": [
+    {
+      "name": "Dead Walker",
+      "createDate": "02-01-2022",
+      "category": "Shooting",
+      "id": 1
+    },
+    {
+      "name": "Need For Speed",
+      "category": "Racing",
+      "createDate": "20-06-2002",
+      "id": 2
+    },
+    {
+      "name": "Farcry",
+      "category": "Shooting",
+      "createDate": "16-11-2012",
+      "id": 4
+    },
+    {
+      "name": "Call of Duty",
+      "createDate": "21-04-2017",
+      "category": "Shooting",
+      "id": 5
+    }
+  ]
+}
