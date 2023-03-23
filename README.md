@@ -5,7 +5,7 @@ In the project directory,
 
 at first run:
 
-### `npx json-serve --watch data/db.json --port 8000`
+### `npx json-server --watch data/db.json --port 8000`
 
 open anther new terminal in project directory:
 ### `npm install`
